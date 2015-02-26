@@ -3,7 +3,7 @@ Idea repo for a site for making a registry of all kanji with OCR capabilities
 
 ###About 
 
-This repository is meant to be a planning document for a site with the followingobjectives:
+This repository is meant to be a planning document for a site with the following objectives:
 
  * To provide a beautiful catalogue of all Kanji, Kana, and Hanzì.
  * To provide a usable dictionary and etymology for characters, in any language where that character is used.
