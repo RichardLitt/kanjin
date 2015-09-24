@@ -22,5 +22,5 @@ For now, this is a planning document. Any questions or discussions should happen
 Useful currently existing resources:
 
  * OCR: [Tesseract](https://code.google.com/p/tesseract-ocr/)
-
+ * ocropy: [tmbdev/ocropy](https://github.com/tmbdev/ocropy) Python-based tools for document analysis and OCR
 
